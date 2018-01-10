@@ -1,8 +1,5 @@
-## Time-stamp: <2017-02-08 19:12:44 georgiou>
 
-Every week (minimally) each of the lab members should add to this file:
-
-Date: Feb 10th
+Date: Jan 10th 18
 
 Folders HAS BEEN COMBINED
 MAJOR FILES CAN BE FOUND HERE
