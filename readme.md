@@ -2,6 +2,7 @@
 Date: Jan 10th 18
 
 Folders HAS BEEN COMBINED
+
 MAJOR FILES CAN BE FOUND HERE
 
 This directory contains 6 parts--Final_Submission, Presentation_final, Proposal, IMG_2457.MOV, handwritten_recogination.pdf, and readme.md
@@ -23,6 +24,6 @@ This directory contains 6 parts--Final_Submission, Presentation_final, Proposal,
 
 - Proposal: this folder contains the proposal of the project and all the source documents
 
-- IMG_2457.MOV: this is the video recording of the demo for the project. DUE TO FILE TO LARGE, CONTACT ME IF YOU WANT TO SEE IT
+- IMG_2457.MOV: this is the video recording of the demo for the project. DUE TO FILE TOO LARGE, CONTACT ME IF YOU WANT TO SEE IT
 
 - handwritten_recogination.pdf: this is the proposal presentation powerpoint in pdf form
